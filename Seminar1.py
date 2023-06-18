@@ -16,6 +16,8 @@ def Main():
     c = float(input("c = "))
     print(triangle(a,b,c))
 Main()
+
+
 prime = True
 maxDig = 100000
 while True:
